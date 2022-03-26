@@ -4,12 +4,17 @@
 
 
 
+.myinfobox{
+
+display: grid;
+place-items: center;
 
 
-.name{
+.my-info{
     animation: color-change 5s infinite;
-}
 
+}
+}
 
 
 
